@@ -51,7 +51,7 @@ const SongGuesser: React.FC<SongGuesserProps> = ({ songUrl, mapName }) => {
 
   return (
     <>
-      <div className="min-h-1/2 flex flex-col w-1/2 bg-white bg-opacity-20 rounded-md px-6 gap-2.5 py-6 relative">
+      <div className="sm:h-100 flex flex-col md:w-2/3 lg:w-1/2 sm:w-100 bg-white bg-opacity-20 rounded-md px-6 gap-2.5 py-6 relative">
         <h1 className="mx-auto text-4xl text-white font-bold text-center">
           Guess the map based on its song!
         </h1>
