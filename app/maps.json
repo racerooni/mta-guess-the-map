@@ -1,19 +1,19 @@
 [
     {
       "songUrl": "ZItRY-14ZBA",
-      "mapName": ["symon v9", "phantom port"]
+      "mapName": ["symon v9 phantom port", "symon v9", "phantom port"]
     },
     {
       "songUrl": "PEbJ4qLiMu0",
-      "mapName": ["sebas v13", "future dimensions"]
+      "mapName": ["sebas v13 future dimensions", "sebas v13", "future dimensions"]
     },
     {
       "songUrl": "Qg1qZq5yjps",
-      "mapName": ["dark wheels"]
+      "mapName": ["dizzaster dark wheels", "dark wheels"]
     },
     {
       "songUrl": "bFp843GRPW4",
-      "mapName": ["derailed"]
+      "mapName": ["chrs ft rexon derailed", "chrs ft rexon", "derailed"]
     },
     {
       "songUrl": "g0qX62Patoo",
@@ -21,54 +21,94 @@
     },
     {
       "songUrl": "yappQQtfk8Q",
-      "mapName": ["shondex v10", "notorious ability", "shondex v10"]
+      "mapName": ["shondex v10 notorious ability", "shondex v10", "notorious ability", "shondex v10"]
     },
     {
       "songUrl": "QnTYIBU7Ueg",
-      "mapName": ["naval ft nakezi", "unmatched player"]
+      "mapName": ["naval ft nakezi unmatched player","naval ft nakezi", "unmatched player"]
     },
     {
         "songUrl": "MvLdxtICOIY",
-        "mapName": ["shondex ft bright", "blinded in chains 2", "bic 2"]
+        "mapName": ["shondex ft bright blinded in chains 2", "shondex ft bright", "blinded in chains 2", "bic 2"]
     },
     {
         "songUrl": "YDnLKL0dIVw",
-        "mapName": ["bright v6", "derogatory", "bright v6"]
+        "mapName": ["bright v6 derogatory", "derogatory", "bright v6"]
     },
     {
         "songUrl": "W-U5Zg6OmrU",
-        "mapName": ["sajgon ft pchzy", "vengeance"]
+        "mapName": ["sajgon ft pchzy vengeance", "sajgon ft pchzy", "vengeance"]
     },
     {
         "songUrl": "4K_xUXAWu8Y",
-        "mapName": ["nikotin ft espawn", "breathe of skills", "bos"]
+        "mapName": ["nikotin ft espawn breathe of skills", "nikotin ft espawn", "breathe of skills", "bos"]
     },
     {
         "songUrl": "xFaes6bw1u4",
-        "mapName": ["espawn ft sajgon", "vital death"]
+        "mapName": ["espawn ft sajgon vital death", "espawn ft sajgon", "vital death"]
     },
     {
         "songUrl": "IQC-QhPIWbQ",
-        "mapName": ["shondex ft pchzy", "ethereal ability"]
+        "mapName": ["shondex ft pchzy ethereal ability", "shondex ft pchzy", "ethereal ability"]
     },
     {
         "songUrl": "02GTpHxq2cI",
-        "mapName": ["neksezi ft html", "aphelium"]
+        "mapName": ["neksezi ft html aphelium", "neksezi ft html", "aphelium"]
     },
     {
         "songUrl": "cKp5hyHJ5DE",
-        "mapName": ["gteatero", "noxious force", "nf 1"]
+        "mapName": ["gteatero noxious force 1", "gteatero nf1", "nf", "noxious force", "noxious force 1", "nf1", "nf 1"]
     },
     {
         "songUrl": "KeU2pyfBz1E",
-        "mapName": ["gteatero", "noxious force 2", "nf 2"]
+        "mapName": ["gteatero noxious force 2", "gteatero nf2", "nf2", "noxious force 2", "nf 2"]
     },
     {
         "songUrl": "POKUzMXsc2g",
-        "mapName": ["gteatero ft shine", "noxious force 3", "nf 3"]
+        "mapName": ["gteatero ft shine noxious force 3", "gteatero ft shine", "noxious force 3", "nf 3"]
     },
     {
         "songUrl": "X78KKpVCf1E",
-        "mapName": ["rexon ft chrs ft sheldon ft flint", "new age", "na 1"]
-      }
+        "mapName": ["rexon ft chrs ft sheldon ft flint new age 1", "rexon ft chrs ft sheldon ft flint", "new age", "na 1", "new age 1"]
+    },
+    {
+        "songUrl": "jDigbTQ7xAM",
+        "mapName": ["pablow ft bright ft pchzy schizophrenia", "pablow ft bright ft pchzy", "schizophrenia", "schizo"]
+    },
+    {
+        "songUrl": "AtgAbU0RPFQ",
+        "mapName": ["coon v1 serenity", "coon v1", "serenity"]
+    },
+    {
+        "songUrl": "d455TYstD_w",
+        "mapName": ["goku v3 amaterasu", "goku v3", "amaterasu"]
+    },
+    {
+        "songUrl": "1O_WX5tTY6c",
+        "mapName": ["darmos ft swalox ft driver essence of speed", "eos", "eos1"]
+    },
+    {
+        "songUrl": "w5IfUiJ8Vvw",
+        "mapName": ["darmos ft swalox ft driver essence of speed 2", "eos2", "eos 2"]
+    },
+    {
+        "songUrl": "W-3TDpxjkpM",
+        "mapName": ["coon ft naval ft vishal ft nitron the verge", "coon ft naval ft vishal ft nitron", "the verge"]
+    },
+    {
+        "songUrl": "UCh9yhGoa6Q",
+        "mapName": ["geass ft rexon ft czerka", "bulmu"]
+    },
+    {
+        "songUrl": "MReNmBOspAg",
+        "mapName": ["rexon courage", "courage"]
+    },
+    {
+        "songUrl": "hGZL_5Wn3aQ",
+        "mapName": ["simas uta", "uta"]
+    },
+    {
+        "songUrl": "0ogXcfjw5FE",
+        "mapName": ["loquitran", "loquitran 1"]
+    }
   ]
