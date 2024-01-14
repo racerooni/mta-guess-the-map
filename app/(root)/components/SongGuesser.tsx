@@ -47,7 +47,7 @@ const SongGuesser: React.FC<SongGuesserProps> = ({ songUrl, mapName }) => {
     <>
       <div className="min-h-1/2 flex flex-col w-1/2 bg-white bg-opacity-20 rounded-md px-6 gap-2.5 py-6 relative">
         <h1 className="mx-auto text-4xl text-white font-bold">
-          Guess the map based on it's song!
+          Guess the map based on its song!
         </h1>
         <YouTube className="mx-auto w-100" videoId={mapToGuess.songUrl} />
         <Input
