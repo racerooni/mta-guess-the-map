@@ -6,7 +6,8 @@ import toast, { Toaster } from "react-hot-toast";
 import maps from "@/app/maps.json";
 import dynamic from "next/dynamic";
 import Disclaimer from "./components/disclaimer";
-import { KeyObject } from "crypto";
+import { auth } from "@clerk/nextjs";
+//import Navbar from "./components/Navbar";
 
 const DynamicIframe = dynamic(() => import("react-iframe"), { ssr: false });
 
@@ -45,15 +46,10 @@ const SongGuesser = () => {
     });
   };
 
-  const handleKeypress = (e: React.KeyboardEvent) => {
-    if ((e.keyCode = 13)) {
-      checkIfCorrect();
-    }
-  };
-
   return (
     <>
       <Toaster />
+
       <div
         className="sm:h-100 flex flex-col md:w-2/3 lg:w-1/2 sm:w-100 bg-white bg-opacity-20 rounded-md px-6 gap-2.5 py-6 relative shadow-[20px 20px 60px #bebebe,
              -20px -20px 60px #ffffff;] mx-2"
@@ -93,11 +89,7 @@ const SongGuesser = () => {
           </Button>
         </div>
 
-        <Button
-          className="mt-4"
-          onClick={checkIfCorrect}
-          onKeyDown={handleKeypress}
-        >
+        <Button className="mt-4" onClick={checkIfCorrect}>
           Guess
         </Button>
 
