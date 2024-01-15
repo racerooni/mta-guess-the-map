@@ -17,15 +17,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-
-      <html lang="en">
-        <body className={inter.className}>
-          <div className="flex w-full h-screen justify-center items-center bg-[url('https://i.imgur.com/xViLugU.png')] bg-no-repeat bg-center bg-cover">
-            {children}
-            <Analytics />
-          </div>
-        </body>
-      </html>
-
+    <html lang="en">
+      <body className={inter.className}>
+        <div className="flex w-full h-screen justify-center items-center bg-[url('https://i.imgur.com/xViLugU.png')] bg-no-repeat bg-center bg-cover">
+          {children}
+          <Analytics />
+        </div>
+      </body>
+    </html>
   );
 }
